@@ -1,0 +1,19 @@
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store
+
+# Compiled Java files
+/backend/target/
+/backend/.mvn/
+*.class
+
+# Node.js dependencies
+/frontend/node_modules/
+
+# Vite build output and cache
+/frontend/dist/
+/frontend/.vite/
+
+# Log files
+*.log

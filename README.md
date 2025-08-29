@@ -1,4 +1,4 @@
-# Toy Store Application 🧸
+# Toy Store Application 
 
 A full-stack web application that displays a dynamic catalog of toys. Users can browse, search, filter by category, and sort products by price. This project demonstrates a modern web development setup with a Java backend and a React frontend.
 
